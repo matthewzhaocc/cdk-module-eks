@@ -230,5 +230,6 @@ export class CdkModuleEks extends cdk.Construct {
       namespace: "kube-system",
       values: lbHelmValues,
     });
+    
   }
 }
