@@ -20,7 +20,7 @@
     "@aws-cdk/core": "1.101.0"
   },
   "dependencies": {
-    "@aws-cdk/aws-eks": "^1.108.0",
+    "@aws-cdk/aws-eks": "^1.202.0",
     "@aws-cdk/core": "1.101.0"
   },
   "private": false
